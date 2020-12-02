@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **thebycop@gmail.com**
 
-| 42 Project        | Grade      |
-| ------|-----|
-| Libft  	| **115%** 	|
-| NetWhat | **100%** |
-| Get_next_line | **115%** |
+| 42 Project        | Grade      | Max grade |
+| -----|-----|-----|
+| Libft  	| **115%** 	| **115** |
+| NetWhat | **100%** | **100** |
+| Get_next_line | **115%** | **115** |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
