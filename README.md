@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bycop</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A 42 School Student from France</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bycop&label=Profile%20views&color=0e75b6&style=flat" alt="bycop" /> <a href="https://twitter.com/thebycop_" target="blank"><img src="https://img.shields.io/twitter/follow/thebycop_?logo=twitter&style=for-the-badge" height="20%" width="20%" alt="thebycop_" /></a></p>
 
