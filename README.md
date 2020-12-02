@@ -5,7 +5,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Get_next_line**
+- 🔭 I’m currently working on **ft_printf**
 
 - 🌱 I’m currently learning at [**@42School**](https://github.com/42School)
 
@@ -17,6 +17,7 @@
 | ------|-----|
 | Libft  	| **115%** 	|
 | NetWhat | **100%** |
+| Get_next_line | **115%** |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
