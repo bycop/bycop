@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://bycop.rf.gd/](http://bycop.rf.gd/)
 
-- 📫 How to reach me **thebycop@gmail.com**
+- 📫 How to reach me **sfournio@student.42lyon.fr**
 
 | 42 Project        | Grade      | Max grade |
 | -----|-----|-----|
