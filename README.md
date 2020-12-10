@@ -15,9 +15,9 @@
 
 | 42 Project        | Grade      | Max grade |
 | -----|-----|-----|
-| Libft  	| **115%** 	| **115** |
+| <a href="https://github.com/bycop/42-libft"> Libft </a> | **115%** 	| **115** |
 | NetWhat | **100%** | **100** |
-| Get_next_line | **115%** | **115** |
+| <a href="https://github.com/bycop/42-get_next_line"> Get_next_line </a> | **115%** | **115** |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
