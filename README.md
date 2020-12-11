@@ -13,11 +13,12 @@
 
 - 📫 How to reach me **sfournio@student.42lyon.fr**
 
-| 42 Project        | Grade      | Max grade |
-| -----|-----|-----|
-| <a href="https://github.com/bycop/42-libft"> Libft </a> | **115%** 	| **115** |
-| NetWhat | **100%** | **100** |
-| <a href="https://github.com/bycop/42-get_next_line"> Get_next_line </a> | **115%** | **115** |
+| 42 Project        | Grade      |
+| -----|-----|
+| <a href="https://github.com/bycop/42-libft"> Libft </a> | **115%** |
+| NetWhat | **100%** |
+| <a href="https://github.com/bycop/42-get_next_line"> Get_next_line </a> | **115%** |
+| <a href="https://github.com/bycop/42-ft_printf"> ft_printf </a> | **50%** |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
