@@ -5,7 +5,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **ft_printf**
+- 🔭 I’m currently working on **ft_server**
 
 - 🌱 I’m currently learning at [**@42School**](https://github.com/42School)
 
