@@ -19,6 +19,7 @@
 | NetWhat | **100%** |
 | <a href="https://github.com/bycop/42-get_next_line"> Get_next_line </a> | **115%** |
 | <a href="https://github.com/bycop/42-ft_printf"> ft_printf </a> | **100%** |
+| ft_server |  |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
