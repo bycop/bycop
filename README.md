@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **sfournio@student.42lyon.fr**
 
+-  I sell fully customized discord bots with lot of modules. Add me on Discord **Bycop#4757**
+
 | 42 Project        | Grade      |
 | -----|-----|
 | <a href="https://github.com/bycop/42-libft"> Libft </a> | **115%** |
