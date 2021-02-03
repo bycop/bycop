@@ -25,10 +25,12 @@
 | <a href="https://github.com/bycop/42-ft_server"> ft_server </a> | **100%** |
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bycop&show_icons=true&locale=en" alt="bycop" height="35%" width="35%" /></p>
+<p align="center"><img align="center" src="https://bit.ly/3oJ69zZ"/>
+
 
 ## Discord Bot Projects : 
 Discord-global-chat : https://github.com/bycop/Discord-global-chat <br>
 Discord-Image-to-twitter : https://github.com/bycop/Discord-Image-to-twitter <br>
 Discord-Fivem-Serverstats : https://github.com/bycop/Discord-Fivem-Serverstats <br>
 Discord-Serverlist-InviteLinkByID : https://github.com/bycop/Discord-Serverlist-InviteLinkByID
-
+x
