@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sfournio@student.42lyon.fr**
 
--  I sell fully customized discord bots with lot of modules. Add me on Discord **Bycop#4757**
+-  I sell fully customized discord bots with lot of modules. Add me on Discord **Bycop#4757** or check my 5euros.com page [https://5euros.com/profil/sfournio](https://5euros.com/profil/sfournio)
 
 | 42 Project        | Grade      |
 | -----|-----|
