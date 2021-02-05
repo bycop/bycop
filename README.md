@@ -29,6 +29,7 @@
 
 
 ## Discord Bot Projects : 
+Discord.js-Guide : https://github.com/bycop/Discord.js-guide <br>
 Discord-global-chat : https://github.com/bycop/Discord-global-chat <br>
 Discord-Image-to-twitter : https://github.com/bycop/Discord-Image-to-twitter <br>
 Discord-Fivem-Serverstats : https://github.com/bycop/Discord-Fivem-Serverstats <br>
