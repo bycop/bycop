@@ -17,12 +17,12 @@
 
 | 42 Project        | Grade      |
 | -----|-----|
-| <a href="https://github.com/bycop/42-libft"> Libft </a> | **115%** |
-| NetWhat | **100%** |
-| <a href="https://github.com/bycop/42-get_next_line"> Get_next_line </a> | **115%** |
-| <a href="https://github.com/bycop/42-ft_printf"> ft_printf </a> | **100%** |
-| <a href="https://github.com/bycop/42-exam-rank-02"> Exam Rank 02 </a> | **100%** |
-| <a href="https://github.com/bycop/42-ft_server"> ft_server </a> | **100%** |
+| <a href="https://github.com/bycop/42-libft"> Libft </a> | <p align="center"><img align="center" src="https://bit.ly/3qjjIHS"/> |
+| NetWhat | <p align="center"><img align="center" src="https://bit.ly/3aTJoVa"> |
+| <a href="https://github.com/bycop/42-get_next_line"> Get_next_line </a> | <p align="center"><img align="center" src="https://bit.ly/3d8iNXk"/> |
+| <a href="https://github.com/bycop/42-ft_printf"> ft_printf </a> | <p align="center"><img align="center" src="https://bit.ly/3qhjm4u"/> |
+| <a href="https://github.com/bycop/42-exam-rank-02"> Exam Rank 02 </a> | <p align="center"><img align="center" src="https://bit.ly/3p9mVsg"/> |
+| <a href="https://github.com/bycop/42-ft_server"> ft_server </a> | <p align="center"><img align="center" src="https://bit.ly/3p8mGha"/> |
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bycop&show_icons=true&locale=en" alt="bycop" height="35%" width="35%" /></p>
 <p align="center"><img align="center" src="https://bit.ly/3oJ69zZ"/>
