@@ -2,8 +2,6 @@
 <h3 align="center">A 42 School Student from France</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bycop&label=Profile%20views&color=0e75b6&style=flat" alt="bycop" /> <a href="https://twitter.com/thebycop_" target="blank"><img src="https://img.shields.io/twitter/follow/thebycop_?logo=twitter&style=for-the-badge" height="20%" width="20%" alt="thebycop_" /></a> </p>
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
-
 
 <p align="left">  </p>
 
