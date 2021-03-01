@@ -27,7 +27,7 @@
 | <a href="https://github.com/bycop/42-ft_printf"> ft_printf </a> | <p align="center"><img align="center" src="https://bit.ly/3qhjm4u"/> |
 | <a href="https://github.com/bycop/42-exam-rank-02"> Exam Rank 02 </a> | <p align="center"><img align="center" src="https://bit.ly/3p9mVsg"/> </p>|
 | <a href="https://github.com/bycop/42-ft_server"> ft_server </a> | <p align="center"><img align="center" src="https://bit.ly/3p8mGha"/> |
-| <a href="https://github.com/bycop/42-cub3d"> Cub3d </a> | <p align="center">Soon |
+| <a href="https://github.com/bycop/42-cub3d"> Cub3d </a> | <p align="center"><img align="center" src="https://bit.ly/3kANsOk"/> |
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bycop&show_icons=true&locale=en" alt="bycop" height="35%" width="35%" /></p>
 <p align="center"><img align="center" src="https://bit.ly/3oJ69zZ"/>
