@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [http://bycop.rf.gd/](http://bycop.rf.gd/)
 
+- 💬 Ask me about Node.js (discord.js), C, Typescript.
+
 - 📫 How to reach me **sfournio@student.42lyon.fr**
 
 -  I sell fully customized discord bots with lot of modules. Add me on Discord **Bycop#4757**.
