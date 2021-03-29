@@ -33,7 +33,7 @@
 | <a href="https://github.com/bycop/42-libasm"> Libasm </a> | <p align="center"><img align="center" src="https://bit.ly/3thiXjB"/> |
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bycop" alt="bycop" height="30%" width="30%" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bycop" alt="bycop" height="31%" width="31%" /></p>
 <p align="center"><img align="center" src="https://bit.ly/3q9ItFv"/>
 
 
