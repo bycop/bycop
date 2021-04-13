@@ -36,6 +36,10 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bycop" alt="bycop" height="35%" width="35%" /></p>
 <p align="center"><img align="center" src="https://bit.ly/3q9ItFv"/>
 
+## FiveM Lua Projects : 
+FiveM-Ragdoll : https://github.com/bycop/FiveM-ragdoll <br>
+FiveM-Give-spawn-model : https://github.com/bycop/FiveM-Give-spawn-model <br>
+FiveM-discord-richpresence : https://github.com/bycop/FiveM-discord-richpresence <br>
 
 ## Discord Bot Projects : 
 Discord.js-Guide : https://github.com/bycop/Discord.js-guide <br>
