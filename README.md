@@ -9,7 +9,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Minishell / Push_swap**
+- 🔭 I’m currently working on **Minishell**
 
 - 🌱 I’m currently learning at [**@42School**](https://github.com/42School)
 
@@ -31,6 +31,7 @@
 | <a href="https://github.com/bycop/42-ft_server"> ft_server </a> | <p align="center"><img align="center" src="https://bit.ly/3p8mGha"/> |
 | <a href="https://github.com/bycop/42-cub3d"> Cub3d </a> | <p align="center"><img align="center" src="https://bit.ly/3sHonV5"/> |
 | <a href="https://github.com/bycop/42-libasm"> Libasm </a> | <p align="center"><img align="center" src="https://bit.ly/3thiXjB"/> |
+| <a href="https://github.com/bycop/42-push_swap"> Push_swap </a> | <p align="center"><img align="center" src="https://bit.ly/3gp09fr"/> |
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bycop" alt="bycop" height="35%" width="35%" /></p>
