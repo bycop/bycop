@@ -34,7 +34,7 @@
 | <a href="https://github.com/bycop/42-push_swap"> Push_swap </a> | <p align="center"><img align="center" src="https://bit.ly/3gp09fr"/> |
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bycop" alt="bycop" height="35%" width="35%" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;</p>
 <p align="center"><img align="center" src="https://bit.ly/3q9ItFv"/>
 
 ## FiveM Lua Projects : 
