@@ -28,6 +28,7 @@
 | <a href="https://github.com/bycop/42-exam-rank-02"> Exam Rank 02 </a> | <p align="center"><img align="center" src="https://bit.ly/3p9mVsg"/> </p>| | <a href="https://github.com/bycop/42-ft_server"> ft_server </a> | <p align="center"><img align="center" src="https://bit.ly/3p8mGha"/> |
 | <a href="https://github.com/bycop/42-cub3d"> Cub3d </a> | <p align="center"><img align="center" src="https://bit.ly/3sHonV5"/> | | <a href="https://github.com/bycop/42-libasm"> Libasm </a> | <p align="center"><img align="center" src="https://bit.ly/3thiXjB"/> |
 | <a href="https://github.com/bycop/42-push_swap"> Push_swap </a> | <p align="center"><img align="center" src="https://bit.ly/3gp09fr"/> | | Exam Rank 03 | <p align="center"><img align="center" src="https://bit.ly/3sYvIiE"/> |
+ | Minitalk </a> | <p align="center"><img align="center" src="https://bit.ly/3gsXsHX"/> | |
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;</p>
