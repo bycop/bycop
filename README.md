@@ -6,7 +6,17 @@
  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
  <img src="https://img.shields.io/github/followers/bycop.svg?style=social&label=Follow&maxAge=2592000" alt="Follower count"/>
  </p>
-
+<div align="center">
+ <h2> Technologies & Tools </h2>
+ <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2971FF"/>
+ <img src="https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=2971FF"/>
+ <img src="https://img.shields.io/badge/OS-macos-informational?style=flat&logo=macos&logoColor=white&color=2971FF"/>
+ <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2971FF"/>
+ <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2971FF"/>
+ <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2971FF"/>
+ <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2971FF"/>
+ <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2971FF"/>
+</div>
 <p align="left">  </p>
 
 - 🔭 I’m currently working on **Minishell**
@@ -34,14 +44,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;</p>
 <p align="center"><img align="center" src="https://bit.ly/3q9ItFv"/>
 
-## FiveM Lua Projects : 
-FiveM-Ragdoll : https://github.com/bycop/FiveM-ragdoll <br>
-FiveM-Give-spawn-model : https://github.com/bycop/FiveM-Give-spawn-model <br>
-FiveM-discord-richpresence : https://github.com/bycop/FiveM-discord-richpresence <br>
-
-## Discord Bot Projects : 
-Discord.js-Guide : https://github.com/bycop/Discord.js-guide <br>
-Discord-global-chat : https://github.com/bycop/Discord-global-chat <br>
-Discord-Image-to-twitter : https://github.com/bycop/Discord-Image-to-twitter <br>
-Discord-Fivem-Serverstats : https://github.com/bycop/Discord-Fivem-Serverstats <br>
-Discord-Serverlist-InviteLinkByID : https://github.com/bycop/Discord-Serverlist-InviteLinkByID
