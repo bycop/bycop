@@ -43,5 +43,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact" alt="bycop" height="30%" width="29%"/>&nbsp;</p>
 <p align="center"><img align="center" src="https://bit.ly/3q9ItFv"/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=bycop&theme=onedark&title=MultiLanguage,Commit,Stars,Followers,Repositories)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=bycop&theme=onedark&title=MultiLanguage,Commit,Stars,Followers,Repositories)](https://github.com/bycop)
 
