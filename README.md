@@ -41,6 +41,5 @@
  | Minitalk </a> | <p align="center"><img align="center" src="https://bit.ly/3gsXsHX"/> | | <a href="https://github.com/bycop/42-Philosophers">Philosophers </a>| <p align="center"><img align="center" src="https://bit.ly/3hitAOW"/> |
 | <a href="https://github.com/bycop/42-minishell"> Minishell </a> | <p align="center"><img align="center" src="https://bit.ly/2Wag6hN"/> | |  |  |
 
-<p align="center"><img align="center" src="https://bit.ly/3q9ItFv"/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact&theme=onedark" alt="bycop" height="30%" width="29%"/>&nbsp;</p>
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bycop&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="bycop"/></p>
