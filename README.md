@@ -39,7 +39,7 @@
 | <a href="https://github.com/bycop/42-cub3d"> Cub3d </a> | <p align="center"><img align="center" src="https://bit.ly/3sHonV5"/> | | <a href="https://github.com/bycop/42-libasm"> Libasm </a> | <p align="center"><img align="center" src="https://bit.ly/3thiXjB"/> |
 | <a href="https://github.com/bycop/42-push_swap"> Push_swap </a> | <p align="center"><img align="center" src="https://bit.ly/3gp09fr"/> | | Exam Rank 03 | <p align="center"><img align="center" src="https://bit.ly/3sYvIiE"/> |
  | Minitalk </a> | <p align="center"><img align="center" src="https://bit.ly/3gsXsHX"/> | | <a href="https://github.com/bycop/42-Philosophers">Philosophers </a>| <p align="center"><img align="center" src="https://bit.ly/3hitAOW"/> |
-| <a href="https://github.com/bycop/42-minishell"> Minishell </a> | <p align="center"><img align="center" src="https://bit.ly/2Wag6hN"/> | |  |  |
+| <a href="https://github.com/bycop/42-minishell"> Minishell </a> | <p align="center"><img align="center" src="https://bit.ly/2Wag6hN"/> | | Exam Rank 04 | <p align="center"><img align="center" src="https://bit.ly/2Wsqrpt"/> |
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycop&show_icons=true&locale=en&layout=compact&theme=onedark" alt="bycop" height="30%" width="29%"/>&nbsp;</p>
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bycop&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="bycop"/></p>
