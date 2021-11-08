@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [http://bycop.rf.gd/](http://bycop.rf.gd/)
 
-- 💬 Ask me about Node.js (discord.js), C, Typescript, lua.
+- 💬 Ask me about Node.js (discord.js), C, C++, lua.
 
 - 📫 How to reach me **sfournio@student.42lyon.fr**
 
