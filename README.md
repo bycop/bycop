@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **webserv**
 
-- 🌱 I’m currently learning at [**@42School**](https://github.com/42School)
+- 🌱 I’m currently learning Vue.js and studying at [**@42School**](https://github.com/42School)
 
 - 👨‍💻 All of my projects are available at [http://bycop.rf.gd/](http://bycop.rf.gd/)
 
