@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning Vue.js and studying at [**@42School**](https://github.com/42School)
 
-- 👨‍💻 All of my projects are available at [http://bycop.rf.gd/](http://bycop.rf.gd/)
+- 👨‍💻 All of my projects are available at [https://bycop.fr/](https://bycop.fr/)
 
 - 💬 Ask me about Node.js (discord.js), C, C++, lua.
 
