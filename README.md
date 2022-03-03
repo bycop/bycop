@@ -20,7 +20,7 @@
 </div>
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **webserv**
+- 🔭 I’m currently working on **ft_transcendence**
 
 - 🌱 I’m currently learning Vue.js and studying at [**@42School**](https://github.com/42School)
 
