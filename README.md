@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **ft_transcendence**
 
-- 🌱 I’m currently learning Vue.js and studying at [**@42School**](https://github.com/42School)
+- 🌱 I’m currently learning Typescript and studying at [**@42School**](https://github.com/42School)
 
 - 👨‍💻 All of my projects are available at [https://bycop.fr/](https://bycop.fr/)
 
