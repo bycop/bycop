@@ -20,7 +20,7 @@
 </div>
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **ft_transcendence**
+- 🔭 I’m currently working on 🏖
 
 - 🌱 I’m currently learning Typescript and studying at [**@42School**](https://github.com/42School)
 
@@ -43,7 +43,7 @@
 | <a href="https://github.com/bycop/42-minishell"> Minishell </a> | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2183553"/> | | Exam Rank 04 | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2359351"/> |
 | <a href="https://github.com/bycop/42-piscine-cpp"> Piscine CPP </a> | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2372078"/> | | ft_containers | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2373849"/> |
 | Exam Rank 05 | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2373850"/> | | <a href="https://github.com/bycop/42-webserv"> webserv </a> | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2455511"/> |
-| Inception | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2373852"/> | | ft_transcendence | In progress... |
+| Inception | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2373852"/> | | <a href="https://github.com/bycop/42-ft_transcendence"> ft_transcendence </a> | <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/project/2569070"/> |
 
 <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/stats?cursusId=21&coalitionId=17" alt="bycop"/></p>
 
