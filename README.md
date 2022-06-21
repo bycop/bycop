@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bycop</h1>
 <h3 align="center">A 42 School Student</h3>
-<p align="center"><img src="https://raw.githubusercontent.com/bycop/bycop/main/standard.gif"/></p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=bycop&label=Profile%20views&color=0e75b6&style=flat" alt="bycop" />
  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
