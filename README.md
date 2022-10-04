@@ -27,7 +27,7 @@
 
 - 💬 Ask me about Node.js (discord.js), C, C++, lua.
 
-- 📫 How to reach me **sfournio@student.42lyon.fr**
+- 📫 How to reach me **thebycop@gmail.com**
 
 -  I sell fully customized discord bots with lot of modules. Add me on Discord **Bycop#4757**.
 
