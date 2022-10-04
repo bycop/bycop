@@ -31,6 +31,4 @@
 
 -  I sell fully customized discord bots with lot of modules. Add me on Discord **Bycop#4757**.
 
-<p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl27ign75002109jv0bh4gm6l/stats?cursusId=21&coalitionId=17" alt="bycop"/></p>
-
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bycop&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="bycop"/></p>
