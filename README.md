@@ -19,13 +19,13 @@
 </div>
 <p align="left">  </p>
 
-- 🔭 I’m currently working on 🏖
+- 🔭 I’m currently working in Typescript
 
-- 🌱 I’m currently learning Typescript and studying at [**@42School**](https://github.com/42School)
+- 🌱 I’m currently studying at [**@42School**](https://github.com/42School)
 
 - 👨‍💻 All of my projects are available at [https://bycop.fr/](https://bycop.fr/)
 
-- 💬 Ask me about Node.js (discord.js), C, C++, lua.
+- 💬 Ask me about Node.js (discord.js), TS, JS, C, C++, lua.
 
 - 📫 How to reach me **thebycop@gmail.com**
 
