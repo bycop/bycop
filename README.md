@@ -13,6 +13,7 @@
  <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2971FF"/>
  <img src="https://img.shields.io/badge/Code-C/CPP-informational?style=flat&logo=C&logoColor=white&color=2971FF"/>
  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2971FF"/>
+ <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2971FF"/>
  <img src="https://img.shields.io/badge/Node.js-NPM-informational?style=flat&logo=npm&logoColor=white&color=2971FF"/>
  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2971FF"/>
  <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2971FF"/>
