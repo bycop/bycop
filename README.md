@@ -20,7 +20,7 @@
 </div>
 <p align="left">  </p>
 
-- 🔭 I’m currently working in Typescript
+- 🔭 I’m currently contributing to [**@Glife**](https://github.com/glifem/)
 
 - 🌱 I’m currently studying at [**@42School**](https://github.com/42School)
 
