@@ -1,35 +1,31 @@
 <h1 align="center">Hi 👋, I'm Bycop</h1>
-<h3 align="center">A 42 School Student</h3>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=bycop&label=Profile%20views&color=0e75b6&style=flat" alt="bycop" />
  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
  <img src="https://img.shields.io/github/followers/bycop.svg?style=social&label=Follow&maxAge=2592000" alt="Follower count"/>
  </p>
-<div align="center">
- <h2> Technologies & Tools </h2>
- <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/OS-macos-informational?style=flat&logo=macos&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/Code-C/CPP-informational?style=flat&logo=C&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/Node.js-NPM-informational?style=flat&logo=npm&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2971FF"/>
- <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2971FF"/>
-</div>
 <p align="left">  </p>
 
 - 🔭 I’m currently contributing to [**@Glife**](https://github.com/glifem/)
 
-- 🌱 I’m currently studying at [**@42School**](https://github.com/42School)
+- 🏫 I’m currently studying at [**@42School**](https://github.com/42School)
+ 
+- 🌱 I’m currently learning Rust
 
 - 👨‍💻 All of my projects are available at [https://bycop.fr/](https://bycop.fr/)
 
 - 💬 Ask me about Node.js (discord.js), TS, JS, C, C++, lua.
 
-- 📫 How to reach me **thebycop@gmail.com**
+- 📫 How to reach me **thebycop@gmail.com** | **@Bycop** on Discord
 
--  I sell fully customized discord bots with lot of modules. Add me on Discord **Bycop#4757**.
+<div align="center">
+ <h2> Languages, Frameworks & Tools </h2>
+   <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,cs,lua,bash,pwsh,rust" /> <br>
+   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,vue,sass,git,mysql,mongodb" /> <br>
+   <img src="https://skillicons.dev/icons?i=github,mysql,mongodb,vscode,postman,bots,discord" />
+</div>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bycop&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="bycop"/></p>
+<div align="center">
+ <h2>GitHub activity</h2>
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=bycop&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="bycop"/>
+</div>
