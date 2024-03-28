@@ -27,5 +27,5 @@
 
 <div align="center">
  <h2>GitHub activity</h2>
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=bycop&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="bycop"/>
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=bycop&column=9&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=onedark" alt="bycop"/>
 </div>
