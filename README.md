@@ -16,9 +16,7 @@
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
-   <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,cs,lua,bash,pwsh,rust" /> <br>
-   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,adonis,react,vue,sass,git,mysql,mongodb" /> <br>
-   <img src="https://skillicons.dev/icons?i=github,mysql,mongodb,vscode,postman,bots,discord" />
+   <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,adonis,react,c,cpp,lua,docker,git,mysql,postgres" /> <br>
 </div>
 
 <div align="center">
