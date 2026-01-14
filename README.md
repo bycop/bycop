@@ -7,14 +7,10 @@
 <p align="left">  </p>
 
 - 🔭 I’m currently contributing to [**@Glife**](https://github.com/glifem/)
-
-- 🏫 I’m currently studying at [**@42School**](https://github.com/42School)
  
-- 🌱 I’m currently learning Rust
-
 - 👨‍💻 All of my projects are available at [https://bycop.fr/](https://bycop.fr/)
 
-- 💬 Ask me about Node.js (discord.js), TS, JS, C, C++, lua.
+- 💬 Ask me about Node/React/C/C++/Lua
 
 - 📫 How to reach me **thebycop@gmail.com** | **@Bycop** on Discord
 
